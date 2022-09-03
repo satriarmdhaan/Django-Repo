@@ -1,0 +1,2 @@
+HEROKU_API_KEY: 8b2b7077-5364-4a4e-bf8e-0c4a12068a3d
+HEROKU_APP_NAME: django-repository
